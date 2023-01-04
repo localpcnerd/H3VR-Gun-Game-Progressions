@@ -2,7 +2,7 @@
   "Name": "BO1 Weapons",
   "Description": "BO1s gun game progression, now in H3",
   "OrderType": 0,
-  "EnemyType": "M_Swat_Scout",
+  "EnemyType": "M_Swat_Riflewiener",
   "Guns": [],
   "GunNames": [
     "Python",
